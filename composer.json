@@ -1,0 +1,15 @@
+{
+    "name": "zyan/codeigniter-demo",
+    "description": "Learning CodeIgniter 3",
+    "type": "project",
+    "authors": [
+        {
+            "name": "zyandeep",
+            "email": "zyandeep000@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.1",
+        "mongodb/mongodb": "^1.6"
+    }
+}
